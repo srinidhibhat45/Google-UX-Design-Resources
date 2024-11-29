@@ -1,1 +1,7 @@
 Google Sprint Guide - https://designsprintkit.withgoogle.com/ 
+
+User Interviews 101 - https://www.nngroup.com/articles/user-interviews/#:~:text=Topics%3A,of%20learning%20about%20that%20topic.
+
+Usability Testing 101 - https://www.nngroup.com/articles/usability-testing-101/
+
+When to use which research method - https://www.nngroup.com/articles/which-ux-research-methods/
